@@ -39,48 +39,6 @@ agentic-ai-starter/
 └── README.md           # 📄 Documentation
 ```
 
-🚀 Getting Started
-Follow these steps to set up the agent locally.
-
-Prerequisites
-Python 3.10 or higher
-
-An API Key (OpenAI or OpenRouter)
-
-Installation
-1. Clone the repository
-git clone [https://github.com/3mo0o0ry2001/agentic-ai-starter.git](https://github.com/3mo0o0ry2001/agentic-ai-starter.git)
-cd agentic-ai-starter
-
-2. Set up Virtual Environment
-python -m venv venv
-# Windows
-.\venv\Scripts\activate
-# Mac/Linux
-source venv/bin/activate
-
-3. Install Dependencies
-pip install -r requirements.txt
-
-4. Configure Environment Create a .env file in the root directory:
-OPENAI_API_KEY=your_api_key_here
-OPENAI_BASE_URL=[https://openrouter.ai/api/v1](https://openrouter.ai/api/v1)  # If using OpenRouter
-
-Usage
-Run the agent via the terminal:
-python main.py
-
-Example Interaction:
-User: "What's the weather in Dubai? Create a report file for me."
-Agent:
-Calls get_weather('Dubai') -> Returns "28°C, Sunny"
-Calls write_file('weather_report.txt', ...)
-Final Response: "The weather in Dubai is 28°C. I've saved the report to weather_report.txt."
-
-Future Roadmap
-[ ] Add Web Search Tool (via Tavily or Serper).
-[ ] Implement Memory (Conversation History).
-[ ] Add Streamlit UI for a web interface.
 
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
