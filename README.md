@@ -40,10 +40,14 @@ agentic-ai-starter/
 ```
 
 
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 👤 Author
 
-👤 Author
-Omar Ayoub
-LinkedIn: [Omar Ayoub](https://www.linkedin.com/in/omarayoubai/)
-GitHub: [text](https://github.com/3mo0o0ry2001)
+**Omar Ayoub**
+
+* LinkedIn: [Omar Ayoub](https://www.linkedin.com/in/omarayoubai/)
+* GitHub: [@3mo0o0ry2001](https://github.com/3mo0o0ry2001)
+
+---
+<div align="center">
+  Made with ❤️ by an AI Engineer
+</div>
