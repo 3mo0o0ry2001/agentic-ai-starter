@@ -48,19 +48,13 @@ agentic-ai-starter/
 pip install aisuite tavily-python python-dotenv
 
 2. Configuration
-Create a .env file in the root directory and add your API keys:
+Create a ".env" file in the root directory and add your API keys:
 TAVILY_API_KEY=your_tavily_key_here
 OPENROUTER_API_KEY=your_openrouter_key_here
 
 3. Running the Agent
 Execute the main script and interact with your autonomous agent:
 python main.py
-
-👤 Author
-Omar Ayoub AI/NLP Engineer based in Dubai, UAE
-LinkedIn: https://www.linkedin.com/in/omarayoubai/
-GitHub: https://github.com/3mo0o0ry2001
-<div align="center"> Built for reliability, forced by code. 🦾 </div>
 
 
 
