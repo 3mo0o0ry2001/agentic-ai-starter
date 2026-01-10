@@ -55,6 +55,3 @@ OPENROUTER_API_KEY=your_openrouter_key_here
 3. Running the Agent
 Execute the main script and interact with your autonomous agent:
 python main.py
-
-
-
